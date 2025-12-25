@@ -1,37 +1,94 @@
-# 👋 Olá! Eu sou o Adeildo Junior
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adeildo%20Junior&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎯 Desenvolvedor de Sistemas | Full Stack em formação  
+<h2 align="center">🚀 Desenvolvedor Full Stack com foco em Front-end</h2>
+
+<p align="center">
+  🎨 Interfaces modernas • ⚡ Aplicações Web & Mobile • 🧠 Produtos reais
+</p>
+
+---
+
+## 👋 Sobre mim
+
+Olá! Eu sou o **Adeildo Junior**, desenvolvedor de sistemas com foco em **Front-end**, atuando em projetos **Web e Mobile**, sempre buscando criar interfaces funcionais, bem estruturadas e com boa experiência para o usuário.
+
 📍 Jaboatão dos Guararapes - PE  
-
-Sou desenvolvedor de sistemas com experiência prática em projetos reais, atuando com desenvolvimento, testes e suporte a sistemas web e aplicações corporativas, especialmente na área de tecnologia em saúde. Tenho vivência com metodologias ágeis, integração entre front-end e back-end e foco em qualidade de software.
-
----
-
-## 🚀 Tecnologias
-
-- **Front-end:** React, Next.js, HTML, CSS  
-- **Mobile:** React Native  
-- **Back-end:** Firebase, FastAPI, APIs REST  
-- **Linguagens:** JavaScript, TypeScript, Python  
-- **Banco de Dados:** Firestore, Modelagem de Dados  
-- **Metodologias:** Scrum, Testes de Software (QA)  
+💼 Experiência prática em produtos reais  
+🧩 Integração entre Front-end, Back-end e regras de negócio  
 
 ---
 
-## 🧩 Projetos em destaque
+## 🧠 Tecnologias & Ferramentas
 
-🔹 **ConectaFé**  
-Sistema Web e Mobile com autenticação, gerenciamento de usuários, eventos e integração em tempo real.
+### 🎨 Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f2027?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2c5364?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-203a43?style=for-the-badge&logo=css3&logoColor=white)
 
-🔹 **NutriSync**  
-Sistema corporativo na área da saúde, com foco em nutrição hospitalar e regras de negócio.
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-🔹 **EloDex**  
-Aplicação com regras inspiradas em jogos, backend estruturado e controle de usuários.
+### ⚙️ Back-end & Dados
+![Firebase](https://img.shields.io/badge/Firebase-2c5364?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![FastAPI](https://img.shields.io/badge/FastAPI-203a43?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/APIs_REST-0f2027?style=for-the-badge)
+
+### 🧪 Metodologias
+![Scrum](https://img.shields.io/badge/Scrum-203a43?style=for-the-badge)
+![QA](https://img.shields.io/badge/Testes_e_QA-0f2027?style=for-the-badge)
 
 ---
 
-## 📫 Contato
+## 📊 GitHub Stats
 
-- 📧 Email: ade.alastor@gmail.com  
-- 💼 LinkedIn: Adeildo Jr.
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdeildoJ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeildoJ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdeildoJ&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Projetos em Destaque
+
+### 🔹 EloDex — Web & Mobile
+🕹️ Aplicação inspirada em jogos, com regras de negócio, controle de usuários, missões e Pokédex.
+
+- 🌐 Web: https://github.com/AdeildoJ/elodex-web-portfolio  
+- 📱 Mobile: https://github.com/AdeildoJ/elodex-mobile-portfolio  
+
+---
+
+### 🔹 ConectaFé
+⛪ Sistema Web e Mobile para igrejas, com autenticação, eventos, contribuições e gestão administrativa.  
+📌 Produto real em desenvolvimento comercial.
+
+---
+
+### 🔹 NutriSync
+🏥 Sistema corporativo para nutrição hospitalar, com foco em processos, estoque e regras de negócio.
+
+---
+
+## 🔗 Contato
+
+<p align="center">
+  <a href="mailto:ade.alastor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
