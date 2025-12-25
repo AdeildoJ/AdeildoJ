@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0833a2,50:203a43,100:2c5364&height=200&section=header&text=Adeildo%20Vieira%20Da%20Silva%20Junior&fontSize=38&fontColor=fffffanimation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0833a2,50:0831a2,100:0000&height=200&section=header&text=Adeildo%20Vieira%20Da%20Silva%20Junior&fontSize=38&fontColor=fffffanimation=fadeIn" />
 </p>
 
 <h2 align="center">🚀 Desenvolvedor Full Stack com foco em Front-end</h2>
