@@ -1,11 +1,12 @@
 <!-- ===========================
    ADEILDO JUNIOR • PROFILE
-   Tech Dark + Neon (clean & elegant)
+   Tech Dark + Neon (robusto)
    =========================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:191970,25:4B0082,55:483D8B,100:1E90FF&height=260&section=header&text=ADEILDO%20JUNIOR&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20com%20foco%20em%20Front-end%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Firebase&descAlignY=72&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,25:4B0082,55:483D8B,100:1E90FF&height=320&section=header&text=ADEILDO%20JUNIOR&fontSize=46&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20com%20foco%20em%20Front-end%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Firebase&descAlignY=74&descSize=18"
+    alt="Adeildo Junior"
   />
 </p>
 
@@ -45,7 +46,7 @@
 ---
 
 ## 🧠 Sobre mim (sem enrolação)
-Sou desenvolvedor **Full Stack** com experiência prática em projetos reais, mas com **foco forte em Front-end** — eu gosto de transformar tela em experiência: **layout, fluidez, microinterações, consistência visual e performance**.
+Sou desenvolvedor **Full Stack**, mas com **foco forte em Front-end**: eu gosto de transformar tela em experiência — **layout consistente, fluidez, microinterações e performance**.
 
 Também tenho base sólida em **Firebase (Auth/Firestore/Storage)** e **integrações REST**, construindo soluções completas do login ao deploy.
 
@@ -61,61 +62,57 @@ Também tenho base sólida em **Firebase (Auth/Firestore/Storage)** e **integra�
 
 <br/>
 
-<img src="https://img.shields.io/badge/Firebase%20(Auth%2FFirestore%2FStorage)-191970?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/APIs%20REST%20%26%20Integra%C3%A7%C3%B5es-4B0082?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20%26%20Componentiza%C3%A7%C3%A3o-483D8B?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qualidade%20(QA%2FUsabilidade)-1E90FF?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-191970?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs%20REST-4B0082?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-483D8B?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/QA%20%26%20Usabilidade-1E90FF?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 </div>
 
 ---
 
 ## ✨ O que eu entrego (na prática)
-- **Interfaces com estética forte** (dark, neon, moderno) e foco em acessibilidade
-- **Componentização** (código reaproveitável e organizado)
-- **Autenticação e regras de acesso** (Firebase Auth + claims quando necessário)
-- **Banco e regras** (Firestore, regras, índices, segurança)
-- **Integrações** (APIs REST, painéis e dashboards)
-- **Deploy/config** (ambientes, variáveis, build, boas práticas)
+- **Interfaces com estética forte** (dark, neon, moderno) e foco em acessibilidade  
+- **Componentização** (código reaproveitável e organizado)  
+- **Autenticação e regras de acesso** (Firebase Auth + controle de perfil)  
+- **Banco e regras** (Firestore, regras, índices, segurança)  
+- **Integrações** (APIs REST, painéis, hookup com serviços)  
+- **Boas práticas** (ambientes, variáveis, build, qualidade)
 
 ---
 
 ## 🚀 Projetos em destaque
-> **Obs.:** produtos comerciais permanecem privados. Portfólio fica público e bem apresentado.
-
 ### 🟣 EloDex (Portfólio)
-- **Web (Admin / Painel):** `elodex-web-portfolio`  
-- **Mobile (App):** `elodex-mobile-portfolio`  
+- **Web (Admin/Painel):** https://github.com/AdeildoJ/elodex-web-portfolio  
+- **Mobile (App):** https://github.com/AdeildoJ/elodex-mobile-portfolio  
 
 ### 🔒 ConectaFé (Produto)
-- Sistema web + mobile comercializado (repositório privado)
+Sistema Web + Mobile comercializado (**repo privado**).
 
 ---
 
-## 📌 Destaque visual (estilo “caramba… ficou lindo”)
+## 📊 Meu GitHub (visão rápida)
 <div align="center">
   <img
-    height="165"
     src="https://github-readme-stats.vercel.app/api?username=AdeildoJ&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF&icon_color=1E90FF&ring_color=4B0082"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeildoJ&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF"
+    height="170"
+    alt="GitHub Stats"
   />
 </div>
 
-<br/>
-
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AdeildoJ&hide_border=true&background=0B0F1A&ring=8A2BE2&fire=1E90FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=1E90FF&sideNums=8A2BE2"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeildoJ&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF"
+    height="170"
+    alt="Top Langs"
   />
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,25:4B0082,55:483D8B,100:1E90FF&height=140&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,25:4B0082,55:483D8B,100:1E90FF&height=160&section=footer"
+    alt="footer"
   />
-</div>
+</p>
