@@ -1,6 +1,6 @@
 <!-- ===========================
-   ADEILDO JUNIOR • PROFILE
-   Tech Dark + Neon (robusto)
+   ADEILDO JUNIOR • GITHUB PROFILE
+   Tech Dark + Neon • Clean • Impactante
    =========================== -->
 
 <p align="center">
@@ -9,6 +9,15 @@
     alt="Adeildo Junior"
   />
 </p>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=900&size=18&lines=Interfaces+com+impacto+visual+e+experi%C3%AAncia+real;Design+moderno+%2B+performance+%2B+foco+no+usu%C3%A1rio;Full+Stack+na+pr%C3%A1tica%2C+Front-end+como+especialidade;Produtos+reais%2C+c%C3%B3digo+limpo%2C+UI+que+vende+valor"
+    alt="Typing SVG"
+  />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -45,10 +54,11 @@
 
 ---
 
-## 🧠 Sobre mim (sem enrolação)
-Sou desenvolvedor **Full Stack**, mas com **foco forte em Front-end**: eu gosto de transformar tela em experiência — **layout consistente, fluidez, microinterações e performance**.
+## 🧠 Sobre mim
+Sou desenvolvedor **Full Stack**, com **foco forte em Front-end**.  
+Gosto de transformar telas em experiências: **layout consistente, fluidez, microinterações, clareza visual e performance**.
 
-Também tenho base sólida em **Firebase (Auth/Firestore/Storage)** e **integrações REST**, construindo soluções completas do login ao deploy.
+Tenho experiência prática com **Firebase (Auth, Firestore, Storage)**, **APIs REST**, regras de negócio e construção de produtos completos — do login ao deploy.
 
 ---
 
@@ -65,36 +75,40 @@ Também tenho base sólida em **Firebase (Auth/Firestore/Storage)** e **integra�
 <img src="https://img.shields.io/badge/Firebase-191970?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/APIs%20REST-4B0082?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/UI%2FUX-483D8B?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/QA%20%26%20Usabilidade-1E90FF?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/QA%20%26%20Usabilidade-1E90FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
 ## ✨ O que eu entrego (na prática)
-- **Interfaces com estética forte** (dark, neon, moderno) e foco em acessibilidade  
-- **Componentização** (código reaproveitável e organizado)  
-- **Autenticação e regras de acesso** (Firebase Auth + controle de perfil)  
-- **Banco e regras** (Firestore, regras, índices, segurança)  
-- **Integrações** (APIs REST, painéis, hookup com serviços)  
-- **Boas práticas** (ambientes, variáveis, build, qualidade)
+- Interfaces modernas, acessíveis e com identidade visual forte  
+- Componentização e organização de código  
+- Autenticação e controle de acesso  
+- Integração com APIs REST  
+- Firebase (Auth, Firestore, Storage, regras e índices)  
+- Boas práticas de qualidade, usabilidade e manutenção  
 
 ---
 
 ## 🚀 Projetos em destaque
+
 ### 🟣 EloDex (Portfólio)
-- **Web (Admin/Painel):** https://github.com/AdeildoJ/elodex-web-portfolio  
-- **Mobile (App):** https://github.com/AdeildoJ/elodex-mobile-portfolio  
+- **Web (Admin / Painel):**  
+  https://github.com/AdeildoJ/elodex-web-portfolio  
+- **Mobile (App):**  
+  https://github.com/AdeildoJ/elodex-mobile-portfolio  
 
 ### 🔒 ConectaFé (Produto)
-Sistema Web + Mobile comercializado (**repo privado**).
+Sistema Web + Mobile comercializado  
+(Repositório privado)
 
 ---
 
 ## 📊 Meu GitHub (visão rápida)
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AdeildoJ&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF&icon_color=1E90FF&ring_color=4B0082"
+    src="https://readme-stats-clone.vercel.app/api?username=AdeildoJ&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF&icon_color=1E90FF&ring_color=4B0082&cache_seconds=7200"
     height="170"
     alt="GitHub Stats"
   />
@@ -102,7 +116,7 @@ Sistema Web + Mobile comercializado (**repo privado**).
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeildoJ&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF"
+    src="https://readme-stats-clone.vercel.app/api/top-langs/?username=AdeildoJ&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF&cache_seconds=7200"
     height="170"
     alt="Top Langs"
   />
