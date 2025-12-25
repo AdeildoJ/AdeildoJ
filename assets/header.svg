@@ -1,0 +1,33 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#191970"/>
+      <stop offset="50%" stop-color="#4B0082"/>
+      <stop offset="100%" stop-color="#1E90FF"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <text x="60" y="120"
+        font-size="40"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        filter="url(#glow)">
+    ADEILDO JUNIOR
+  </text>
+
+  <text x="60" y="170"
+        font-size="18"
+        fill="#dcdcff"
+        font-family="Arial, Helvetica, sans-serif">
+    Front-end Focused • Web & Mobile • Interfaces que geram valor
+  </text>
+</svg>
