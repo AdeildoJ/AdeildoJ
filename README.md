@@ -1,139 +1,129 @@
-<!-- HEADER IMPACTANTE -->
+<!-- =========================================================
+   ADEILDO JR — PERFIL PROFISSIONAL
+   Repo: AdeildoJ/AdeildoJ
+========================================================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=Alastor%20Jr.&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=55" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A2A66,35:0F4C8C,70:1F7ED4,100:6FD3FF&text=ADEILDO%20JR&fontColor=FFFAFA&fontSize=68&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Especialista%20em%20Front-end%20%E2%80%A2%20Produtos%20Digitais&descAlignY=64&descSize=20&animation=fadeIn"
+  />
 </p>
 
-<h3 align="center">
-Desenvolvedor Full Stack • Front-end Focused • Produtos Reais
-</h3>
-
 <p align="center">
-Construo aplicações modernas, escaláveis e bem pensadas — do design à regra de negócio.
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Eu+crio+produtos+reais.;Front-end+como+engenharia.;Da+interface+%C3%A0+regra+de+neg%C3%B3cio.;Sistemas+claros%2C+escal%C3%A1veis+e+funcionais."
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Front-end+como+diferencial;Full+Stack+por+responsabilidade;Código+limpo+%7C+UX+real+%7C+Produto+final" />
+  <a href="mailto:ade.alastor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ade.alastor%40gmail.com-071026?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0A2A66" />
+  </a>
+  <a href="https://github.com/AdeildoJ">
+    <img src="https://img.shields.io/badge/GitHub-AdeildoJ-071026?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A2A66" />
+  </a>
+  <img src="https://img.shields.io/badge/Local-PE%2C%20Brasil-071026?style=for-the-badge&logo=googlemaps&logoColor=00E5FF&labelColor=0A2A66" />
 </p>
 
----
-
-## 🧠 Posicionamento Profissional
-
-Sou **desenvolvedor Full Stack**, com **forte foco técnico e visual em Front-end**, atuando também com back-end, Firebase, autenticação, APIs REST, regras de negócio e produtos comerciais em produção.
-
-Não construo apenas telas ou endpoints.  
-**Construo sistemas que fazem sentido para usuários, negócio e escala.**
-
-> Front-end não é estética.  
-> É **arquitetura visual, experiência, performance e clareza**.
+<br/>
 
 ---
 
-## 🎯 O que eu entrego
+## Quem eu sou
 
-- Interfaces modernas, limpas e funcionais
-- Aplicações completas (web e mobile)
-- Integrações reais com Firebase e APIs REST
-- Autenticação, permissões e regras de negócio
-- Código organizado, reutilizável e sustentável
-- Produtos pensados para uso real — não apenas demonstração
+Sou **Adeildo Vieira da Silva Junior**, **Desenvolvedor Full Stack** com atuação prática em **produtos digitais reais**.
 
----
+Trabalho desde a **interface e experiência do usuário** até **integrações, regras de negócio e infraestrutura**.  
+Minha especialização natural é **Front-end**, tratando UI/UX como **engenharia**, com foco em **clareza visual, performance e organização** — sem perder a visão completa do sistema.
 
-## 🧩 Stack Técnica
-
-### 🎨 Front-end (meu diferencial)
-- React / Next.js
-- React Native (Expo)
-- TypeScript
-- Tailwind CSS
-- Componentização avançada
-- Design orientado a produto
-- UX/UI aplicado ao código
-
-### 📱 Mobile
-- React Native + Expo
-- Integração com Firebase
-- Navegação, estado e performance
-- Publicação e manutenção de apps
-
-### ⚙️ Back-end & Dados
-- Firebase (Auth, Firestore, Storage)
-- APIs REST
-- Regras de negócio
-- Controle de permissões
-- Estruturação de dados
-
-### ☁️ Infra & Integrações
-- Firebase Cloud
-- Integrações externas
-- Deploy e configuração de ambiente
-- Segurança básica e boas práticas
-
-### 🧪 Qualidade & Organização
-- Código limpo e legível
-- Separação de responsabilidades
-- Componentes reutilizáveis
-- Padronização visual e técnica
+**O que você pode esperar do meu trabalho:**
+- Interfaces bem estruturadas, claras e consistentes  
+- Arquitetura de componentes que escala com o produto  
+- Integrações seguras e bem definidas  
+- Entrega orientada a **produto**, não apenas a funcionalidades  
 
 ---
 
-## 🚀 Projetos Reais & Produtos
-
-### 🕊️ **ConectaFé**
-Sistema completo (Mobile + Web) para igrejas.
-
-- Aplicativo mobile (React Native)
-- Painel administrativo web (Next.js)
-- Autenticação, permissões e agenda
-- Controle financeiro, eventos e membros
-- Produto pensado para uso real e contínuo
-
-> Projeto ativo, com arquitetura, regras de negócio e evolução contínua.
-
----
-
-### 🧩 **NutriSync**
-Sistema hospitalar focado em nutrição clínica.
-
-- Gestão de dietas enterais e parenterais
-- Controle de estoque com FEFO
-- Agendamentos e validações
-- Fluxos reais do ambiente hospitalar
-
----
-
-## 📊 Indicadores Técnicos
+## Stack principal
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alaastorjr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaastorjr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,py,firebase,nodejs,git&theme=dark&perline=5"
+  />
 </p>
 
 ---
 
-## 🔎 Como eu penso desenvolvimento
+## O que eu já construí
 
-- Front-end é **engenharia de experiência**
-- Código é comunicação entre devs
-- Produto vem antes de framework
-- Visual sem lógica é frágil
-- Back-end sem UX é invisível
+### **EloDex** — Plataforma Técnica (Web + Mobile)
+
+Projeto criado para demonstrar **organização de código, arquitetura, UI/UX e visão de produto**.
+
+**Escopo**
+- Aplicação Web
+- Aplicação Mobile
+
+**Atuação**
+- Arquitetura front-end  
+- Componentização e organização visual  
+- Integrações e regras de negócio  
+- Experiência do usuário como prioridade  
+
+**Repositórios**
+- Web: https://github.com/AdeildoJ/elodex-web-portfolio  
+- Mobile: https://github.com/AdeildoJ/elodex-mobile-portfolio  
 
 ---
 
-## 🤝 Vamos conversar?
+### **ConectaFé+** — Produto Comercial (Web + Mobile)
 
-Se você procura alguém que:
-- Entende **produto**
-- Valoriza **front-end de verdade**
-- Entrega **sistemas completos**
-- Não trata código como hobby
+Sistema **em produção**, com usuários reais e evolução contínua.  
+(Repositório privado)
 
-📩 **Entre em contato ou explore os repositórios.**
+**Atuação Full Stack**
+- Arquitetura de telas e fluxos  
+- UI/UX e organização visual  
+- Integrações Web ↔ Mobile  
+- Firebase (Auth, Firestore, Storage)  
+- Modelagem de dados e regras de negócio  
+- Evolução contínua do produto  
+
+> Projeto que representa minha atuação em **produto real**, não apenas portfólio.
 
 ---
+
+## Conhecimento técnico
+
+**Front-end**  
+React • Next.js • HTML • CSS • UI Engineering • UX aplicado • Design System • Performance
+
+**Mobile**  
+React Native • Expo
+
+**Back-end & Infra**  
+Firebase Authentication • Firestore • Storage • APIs REST • Integrações
+
+**Linguagens**  
+JavaScript • TypeScript • Python
+
+**Qualidade & Processo**  
+QA • Usabilidade • Scrum / Métodos Ágeis
+
+---
+
+## Como eu penso software
+
+> Interface é onde o usuário decide confiar.  
+> Código bom continua claro com o tempo.  
+> Produto bom não precisa de manual.
+
+Construo sistemas que **parecem simples**, porque por trás existe **arquitetura, intenção e clareza técnica**.
+
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=80&section=footer" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:0A2A66,50:1F7ED4,100:00E5FF&text=Full%20Stack%20orientado%20a%20Produto%20%E2%80%A2%20Front-end%20como%20Engenharia&fontColor=FFFAFA&fontSize=20&fontAlignY=55"
+  />
 </p>
