@@ -1,132 +1,139 @@
-<!-- ===========================
-   ADEILDO JUNIOR • GITHUB PROFILE
-   Tech Dark + Neon • Clean • Impactante
-   =========================== -->
-
+<!-- HEADER IMPACTANTE -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,25:4B0082,55:483D8B,100:1E90FF&height=320&section=header&text=ADEILDO%20JUNIOR&fontSize=46&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20com%20foco%20em%20Front-end%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Firebase&descAlignY=74&descSize=18"
-    alt="Adeildo Junior"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=Alastor%20Jr.&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=55" />
 </p>
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&width=900&size=18&lines=Interfaces+com+impacto+visual+e+experi%C3%AAncia+real;Design+moderno+%2B+performance+%2B+foco+no+usu%C3%A1rio;Full+Stack+na+pr%C3%A1tica%2C+Front-end+como+especialidade;Produtos+reais%2C+c%C3%B3digo+limpo%2C+UI+que+vende+valor"
-    alt="Typing SVG"
-  />
-</div>
+<h3 align="center">
+Desenvolvedor Full Stack • Front-end Focused • Produtos Reais
+</h3>
 
-<br/>
+<p align="center">
+Construo aplicações modernas, escaláveis e bem pensadas — do design à regra de negócio.
+</p>
 
-<div align="center">
-
-### ⚡ Interfaces que dão “valor” ao produto
-**Design moderno • performance • experiência real • foco no usuário**  
-📍 Jaboatão dos Guararapes - PE • 🎯 Meta 2026: Inglês fluente
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="mailto:ade.alastor@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/AdeildoJ">
-  <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/FOCO%20EM%20FRONT--END-191970?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FULL%20STACK%20NA%20PR%C3%81TICA-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PRODUTOS%20REAIS-483D8B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TECH%20DARK%20%2B%20NEON-1E90FF?style=for-the-badge" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Front-end+como+diferencial;Full+Stack+por+responsabilidade;Código+limpo+%7C+UX+real+%7C+Produto+final" />
+</p>
 
 ---
 
-## 🧠 Sobre mim
-Sou desenvolvedor **Full Stack**, com **foco forte em Front-end**.  
-Gosto de transformar telas em experiências: **layout consistente, fluidez, microinterações, clareza visual e performance**.
+## 🧠 Posicionamento Profissional
 
-Tenho experiência prática com **Firebase (Auth, Firestore, Storage)**, **APIs REST**, regras de negócio e construção de produtos completos — do login ao deploy.
+Sou **desenvolvedor Full Stack**, com **forte foco técnico e visual em Front-end**, atuando também com back-end, Firebase, autenticação, APIs REST, regras de negócio e produtos comerciais em produção.
 
----
+Não construo apenas telas ou endpoints.  
+**Construo sistemas que fazem sentido para usuários, negócio e escala.**
 
-## 🧩 Stack principal
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-483D8B?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-8A2BE2?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Firebase-191970?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/APIs%20REST-4B0082?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX-483D8B?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/QA%20%26%20Usabilidade-1E90FF?style=for-the-badge"/>
-
-</div>
+> Front-end não é estética.  
+> É **arquitetura visual, experiência, performance e clareza**.
 
 ---
 
-## ✨ O que eu entrego (na prática)
-- Interfaces modernas, acessíveis e com identidade visual forte  
-- Componentização e organização de código  
-- Autenticação e controle de acesso  
-- Integração com APIs REST  
-- Firebase (Auth, Firestore, Storage, regras e índices)  
-- Boas práticas de qualidade, usabilidade e manutenção  
+## 🎯 O que eu entrego
+
+- Interfaces modernas, limpas e funcionais
+- Aplicações completas (web e mobile)
+- Integrações reais com Firebase e APIs REST
+- Autenticação, permissões e regras de negócio
+- Código organizado, reutilizável e sustentável
+- Produtos pensados para uso real — não apenas demonstração
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧩 Stack Técnica
 
-### 🟣 EloDex (Portfólio)
-- **Web (Admin / Painel):**  
-  https://github.com/AdeildoJ/elodex-web-portfolio  
-- **Mobile (App):**  
-  https://github.com/AdeildoJ/elodex-mobile-portfolio  
+### 🎨 Front-end (meu diferencial)
+- React / Next.js
+- React Native (Expo)
+- TypeScript
+- Tailwind CSS
+- Componentização avançada
+- Design orientado a produto
+- UX/UI aplicado ao código
 
-### 🔒 ConectaFé (Produto)
-Sistema Web + Mobile comercializado  
-(Repositório privado)
+### 📱 Mobile
+- React Native + Expo
+- Integração com Firebase
+- Navegação, estado e performance
+- Publicação e manutenção de apps
+
+### ⚙️ Back-end & Dados
+- Firebase (Auth, Firestore, Storage)
+- APIs REST
+- Regras de negócio
+- Controle de permissões
+- Estruturação de dados
+
+### ☁️ Infra & Integrações
+- Firebase Cloud
+- Integrações externas
+- Deploy e configuração de ambiente
+- Segurança básica e boas práticas
+
+### 🧪 Qualidade & Organização
+- Código limpo e legível
+- Separação de responsabilidades
+- Componentes reutilizáveis
+- Padronização visual e técnica
 
 ---
 
-## 📊 Meu GitHub (visão rápida)
-<div align="center">
-  <img
-    src="https://readme-stats-clone.vercel.app/api?username=AdeildoJ&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF&icon_color=1E90FF&ring_color=4B0082&cache_seconds=7200"
-    height="170"
-    alt="GitHub Stats"
-  />
-</div>
+## 🚀 Projetos Reais & Produtos
 
-<div align="center">
-  <img
-    src="https://readme-stats-clone.vercel.app/api/top-langs/?username=AdeildoJ&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=8A2BE2&text_color=FFFFFF&cache_seconds=7200"
-    height="170"
-    alt="Top Langs"
-  />
-</div>
+### 🕊️ **ConectaFé**
+Sistema completo (Mobile + Web) para igrejas.
+
+- Aplicativo mobile (React Native)
+- Painel administrativo web (Next.js)
+- Autenticação, permissões e agenda
+- Controle financeiro, eventos e membros
+- Produto pensado para uso real e contínuo
+
+> Projeto ativo, com arquitetura, regras de negócio e evolução contínua.
+
+---
+
+### 🧩 **NutriSync**
+Sistema hospitalar focado em nutrição clínica.
+
+- Gestão de dietas enterais e parenterais
+- Controle de estoque com FEFO
+- Agendamentos e validações
+- Fluxos reais do ambiente hospitalar
+
+---
+
+## 📊 Indicadores Técnicos
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alaastorjr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaastorjr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔎 Como eu penso desenvolvimento
+
+- Front-end é **engenharia de experiência**
+- Código é comunicação entre devs
+- Produto vem antes de framework
+- Visual sem lógica é frágil
+- Back-end sem UX é invisível
+
+---
+
+## 🤝 Vamos conversar?
+
+Se você procura alguém que:
+- Entende **produto**
+- Valoriza **front-end de verdade**
+- Entrega **sistemas completos**
+- Não trata código como hobby
+
+📩 **Entre em contato ou explore os repositórios.**
 
 ---
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,25:4B0082,55:483D8B,100:1E90FF&height=160&section=footer"
-    alt="footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=80&section=footer" />
 </p>
