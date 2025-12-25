@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,35:4B0082,70:483D8B,100:1E90FF&height=260&section=header&text=ADEILDO%20JUNIOR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Front-end%20Focused%20%7C%20React%20%7C%20Next.js%20%7C%20React%20Native&descAlignY=70&descSize=18" />
+  <img src="./assets/header.svg" alt="Adeildo Junior - Front-end Focused" />
 </p>
 
 <div align="center">
